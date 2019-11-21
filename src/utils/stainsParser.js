@@ -1,5 +1,6 @@
 import React from "react";
 export default (function() {
+  // closure values can go here
   return {
     cleanData: data => {
       const fixedData = [];
